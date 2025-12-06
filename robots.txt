@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://zpedrau.github.io/Site-do-Palmeiras/sitemap.xml
+Sitemap: https://github.com/zPedrau/Site-do-Palmeiras/blob/main/sitemap.xml
+
+# Bloquear arquivos desnecessários
+Disallow: /README.txt
+Disallow: /.git/
+
